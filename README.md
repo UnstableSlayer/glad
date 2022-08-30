@@ -1,4 +1,4 @@
-Forked and premake5 script added for use in VortexEngine
+Generated via webservice and CMake script added for use in VortexEngine
 
 glad
 ====
